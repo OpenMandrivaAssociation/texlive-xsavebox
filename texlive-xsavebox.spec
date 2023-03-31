@@ -1,6 +1,6 @@
 Name:		texlive-xsavebox
 Version:	64049
-Release:	1
+Release:	2
 Summary:	Saveboxes for repeating content without code replication, based on PDF Form XObjects
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xsavebox
