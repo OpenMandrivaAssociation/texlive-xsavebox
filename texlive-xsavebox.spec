@@ -3,7 +3,7 @@ Version:	64049
 Release:	2
 Summary:	Saveboxes for repeating content without code replication, based on PDF Form XObjects
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xsavebox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xsavebox
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xsavebox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xsavebox.doc.r%{version}.tar.xz
